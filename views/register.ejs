@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" />
+
+    <title>Register</title>
+    <style type="text/css">
+      body {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("https://thumbs.gfycat.com/BigIckyAracari-size_restricted.gif");
+        height: 100%;
+      }
+      aside {
+        text-align: center;
+      }
+      h1 {
+        color: blue;
+      }
+      label,
+      a {
+        color: red;
+      }
+      button {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <aside>
+      <h1 style="font-size: 60px;">Register</h1>
+      <form action="/register" method="POST">
+        <div>
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+        <br />
+        <div>
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+        <br />
+        <div>
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required />
+        </div>
+        <br />
+        <button type="submit">Register</button>
+      </form>
+      <br />
+      <a href="/login">Login</a>
+    </aside>
+  </body>
+</html>
