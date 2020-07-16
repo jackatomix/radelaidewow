@@ -1,0 +1,31 @@
+.header-color {
+  background: #373b44;
+  background: -webkit-linear-gradient(to right, #373b44, #4286f4);
+  background: linear-gradient(to right, #373b44, #4286f4);
+}
+.landing-grid {
+  background: #0cebeb;
+  background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);
+  background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);
+  text-align: center;
+}
+.image {
+  position: relative;
+  width: 100%; /* for IE 6 */
+  height: auto;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  right: 400px;
+  width: 100%;
+  color: white;
+}
+h2 {
+  position: absolute;
+  top: 400px;
+  left: 0;
+  width: 100%;
+  color: white;
+}
