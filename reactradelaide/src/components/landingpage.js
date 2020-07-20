@@ -14,8 +14,8 @@ class Landing extends Component {
                 className="radelaide-img"
               />
 
-              <h1>Welcome to</h1>
-              <h2>E-Magazine</h2>
+              <h1>Welcome to,</h1>
+              <h2>E-Magazine.</h2>
             </div>
           </Cell>
         </Grid>

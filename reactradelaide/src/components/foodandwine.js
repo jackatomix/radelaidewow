@@ -28,13 +28,18 @@ class FoodandWine extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://bracegirdles.com.au/wp-content/uploads/2016/07/footer_logo.png) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local football results and interstate games.</CardText>
+            <CardText>Speciality cafe, for the lovers of chocolate.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                FootBall
+              <Button
+                colored
+                target="_blank"
+                href="https://bracegirdles.com.au/"
+              >
+                Bracegirdles
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -51,15 +56,18 @@ class FoodandWine extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCJ__ju8rHLIGZz05dwraU1neZXzlbH6V6zg&usqp=CAU) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local soccer results, interstate games and overseas updates.
-            </CardText>
+            <CardText>Fine dinning restaurant.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Soccer
+              <Button
+                colored
+                target="_blank"
+                href="https://www.lenzerheide.com.au/"
+              >
+                Lenzerheide
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -77,20 +85,17 @@ class FoodandWine extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://slsa-collections.s3.amazonaws.com/e2/b7/e323-0dfd-5f18-9261-edebf3296360.jpg) center / cover",
+                  "url(https://cdn.businesstraveller.com/wp-content/uploads/2018/11/The-dArenberg-Cube.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local club results, interstate competitions and overseas update of
-              turnaments.
-            </CardText>
+            <CardText>Where art and wine mix.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.google.com/search?q=golf+adelaide&rlz=1C1CHBF_enAU877AU877&oq=golf+ade&aqs=chrome.1.69i57j0l6j46.17661j0j7&sourceid=chrome&ie=UTF-8"
+                href="https://www.darenberg.com.au/darenberg-cube/"
               >
-                Golf
+                D'Arenberg Cube
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -108,20 +113,17 @@ class FoodandWine extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://superloopadl500.com.au/files/11157_500club_promo_home.jpg) center / cover",
+                  "url(https://s3.amazonaws.com/listing-admin/logos/51848d5e7d17190002002259/original/chefs_logo.png?1427356074) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local racing events at Mallala and The Bend as well as interstate
-              and overseas racing.
-            </CardText>
+            <CardText>Indian restaurant.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.thebend.com.au/hot-laps?gclid=EAIaIQobChMIs5GthNnV6gIVDSUrCh0WAwbgEAAYASAAEgJmEPD_BwE"
+                href="https://chefsoftandoori.com.au/"
               >
-                Motor Racing
+                Chefs Of Tandoori
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -139,13 +141,14 @@ class FoodandWine extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://www.deputy.com/dptycms/wp-content/uploads/2017/07/san-churro-logo500x300.png) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local results, interstate and overseas games.</CardText>
+            <CardText>Spanish Chocolate Cafe.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Hockey
+              <Button colored target="_blank" href="https://www.sanchurro.com/">
+                San Churro
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -163,19 +166,17 @@ class FoodandWine extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://www.weekendnotes.com/im/007/08/adrenaline-adelaide-south-australia-thrill-seeking71.jpg) center / cover",
+                  "url(https://www.hiddencitysecrets.com.au/wp-content/uploads/2016/11/Osteria-Oggi-Restaurant-CBD-Restaurants-Adelaide-Italian-Dining-Top-Best-Good-001.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              A list of practice days at Mallala and The Bend.
-            </CardText>
+            <CardText>10 of the best Italian Restaurants in Adelaide.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.adrenaline.com.au/drifting/?gclid=EAIaIQobChMIosTUyNfV6gIV1gorCh233Af7EAAYASAAEgJo2PD_BwE"
+                href="https://www.thefork.com.au/restaurants/adelaide-sa-c5255/italian-t436"
               >
-                Drifting
+                Italian Restaurants
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -193,17 +194,17 @@ class FoodandWine extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://live.staticflickr.com/3769/11864624264_0c7eedd07b_b.jpg) center / cover",
+                  "url(https://adelady.com.au/wp-content/uploads/2018/05/IMG_5237-1024x768.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>A list of skate parks and any competitions.</CardText>
+            <CardText>A beautiful winery, at Victor Harbor.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.google.com/search?rlz=1C1CHBF_enAU877AU877&q=skate+parks+in+adelaide&npsic=0&rflfq=1&rlha=0&rllag=-34861011,138548426,9682&tbm=lcl&ved=2ahUKEwia6-Ho1NXqAhWWdn0KHdODBZkQtgN6BAgLEAQ&rldoc=1#rlfi=hd:;si:;mv:[[-34.6956425,138.71488259999998],[-35.0460255,138.4659421]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:1"
+                href="https://mtjaggedwines.com.au/"
               >
-                Skateboarding
+                Mt Jaggered Winery
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -223,13 +224,13 @@ class FoodandWine extends Component {
           onChange={(tabId) => this.setState({ activeTab: tabId })}
           ripple
         >
-          <Tab>FootBall</Tab>
-          <Tab>Soccer</Tab>
-          <Tab>Golf</Tab>
-          <Tab>Motor Racing</Tab>
-          <Tab>Hockey</Tab>
-          <Tab>Drifting</Tab>
-          <Tab>Skateboarding</Tab>
+          <Tab>Bracegirdles</Tab>
+          <Tab>Lenzerheide</Tab>
+          <Tab>D'Arenberg Cube</Tab>
+          <Tab>Chefs Of Tandoori</Tab>
+          <Tab>San Churro</Tab>
+          <Tab>Italian Restaurants</Tab>
+          <Tab>Mt Jaggered Winery</Tab>
         </Tabs>
 
         <Grid className="projects-grid">

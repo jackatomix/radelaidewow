@@ -8,7 +8,7 @@ import Movies from "./movies";
 import Sports from "./sports";
 import Kids from "./kids";
 import Music from "./music";
-import Holiday from "./holiday";
+import Holidaysa from "./holidaysa";
 import SpecialEvents from "./specialevents";
 import Videos from "./videos";
 import Theatre from "./theatre";
@@ -26,7 +26,7 @@ const Main = () => (
     <Route exact path="/specialevents" component={SpecialEvents} />
     <Route exact path="/videos" component={Videos} />
     <Route exact path="/theatre" component={Theatre} />
-    <Route exact path="/holiday" component={Holiday} />
+    <Route exact path="/holidaysa" component={Holidaysa} />
     <Route exact path="/vlogsandblogs" component={VlogsAndBlogs} />
   </Switch>
 );
