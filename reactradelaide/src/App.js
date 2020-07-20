@@ -31,7 +31,7 @@ class App extends Component {
           <Header
             className="header-color"
             title={
-              <Link style={{ textDecoration: "none", color: "white" }} to="/">
+              <Link style={{ textDecoration: "none", color: "red" }} to="/">
                 RADELAIDE.WOW
               </Link>
             }
@@ -51,7 +51,7 @@ class App extends Component {
                 <FaGlassCheers size={30} />
                 <FaUtensils size={30} />
               </Link>
-              <Link to="/holiday">
+              <Link to="/holidaysa">
                 <FaPlane size={30} />
                 <FaSuitcase size={30} />
               </Link>
@@ -80,7 +80,7 @@ class App extends Component {
           </Header>
           <Drawer
             title={
-              <Link style={{ textDecoration: "none", color: "blue" }} to="/">
+              <Link style={{ textDecoration: "none", color: "red" }} to="/">
                 RADELAIDE.WOW
               </Link>
             }
