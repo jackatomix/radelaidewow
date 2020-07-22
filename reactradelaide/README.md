@@ -2,11 +2,11 @@
 
 As a user,
 
-I want to post an event.
-I want to add a video of me skateboarding.
-I want to add a vlog or blog.
-I want to add my cafe, restaurant etc..
-I want to show case my salon.
-I want to show a list of plays in my theatre, wallis etc..
+I want to see where an event is.
+I want to add a video of me skateboarding, vlog me playing golf etc...
+I want to add a blog, for people to read.
+I want to find cafes, restaurants etc...
+I want to show off my salon.
+I want to see a list of plays in a theatre, a movie at a wallis cinema etc...
 
-radelaidewow/reactradelaide/ then npm start to begin
+radelaidewow/reactradelaide/ then npm start to begin.
