@@ -28,13 +28,20 @@ class Music extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_900,h_598/https://australianentertainmenttalentagency.com.au/wp-content/uploads/rock-band-adeliade-for-hire.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local football results and interstate games.</CardText>
+            <CardText>
+              A look at where and when concerts are being held.
+            </CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                FootBall
+              <Button
+                colored
+                target="_blank"
+                href="https://www.songkick.com/metro-areas/26774-australia-adelaide"
+              >
+                Music events in Adelaide
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -51,15 +58,18 @@ class Music extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://indaily.com.au/wp-content/uploads/2016/03/Womadelaide-Arrested-Development-2015-Tony-Lewis-850x455.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local soccer results, interstate games and overseas updates.
-            </CardText>
+            <CardText>When WOMADelaide starts and whats happening.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Soccer
+              <Button
+                colored
+                target="_blank"
+                href="https://www.womadelaide.com.au/"
+              >
+                WOMADelaide
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -77,20 +87,17 @@ class Music extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://slsa-collections.s3.amazonaws.com/e2/b7/e323-0dfd-5f18-9261-edebf3296360.jpg) center / cover",
+                  "url(https://superloopadl500.com.au/file/resize/c833x400/10601_2020_concert_crowd_unwashed_2000x1333.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local club results, interstate competitions and overseas update of
-              turnaments.
-            </CardText>
+            <CardText>Local bands and where they are playing.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.google.com/search?q=golf+adelaide&rlz=1C1CHBF_enAU877AU877&oq=golf+ade&aqs=chrome.1.69i57j0l6j46.17661j0j7&sourceid=chrome&ie=UTF-8"
+                href="http://www.musicsa.com.au/gigs/"
               >
-                Golf
+                Music SA
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -108,20 +115,15 @@ class Music extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://superloopadl500.com.au/files/11157_500club_promo_home.jpg) center / cover",
+                  "url(https://media-exp1.licdn.com/dms/image/C4E1BAQH92f60W4EhCw/company-background_10000/0?e=2159024400&v=beta&t=8QbmFVlgmxdsT_oKXqdVCBoY_nOOdBetDIW5Wo48wMk) center / cover",
               }}
             ></CardTitle>
             <CardText>
-              Local racing events at Mallala and The Bend as well as interstate
-              and overseas racing.
+              Local music business that has all you music making needs.
             </CardText>
             <CardActions border>
-              <Button
-                colored
-                target="_blank"
-                href="https://www.thebend.com.au/hot-laps?gclid=EAIaIQobChMIs5GthNnV6gIVDSUrCh0WAwbgEAAYASAAEgJmEPD_BwE"
-              >
-                Motor Racing
+              <Button colored target="_blank" href="https://derringers.com.au/">
+                Derringers
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -139,13 +141,18 @@ class Music extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://www.reedmusic.com/wp-content/uploads/winston_music.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local results, interstate and overseas games.</CardText>
+            <CardText>Local business for classic musical instruments.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Hockey
+              <Button
+                colored
+                target="_blank"
+                href="https://www.winstonmusic.com.au/?gclid=EAIaIQobChMImIOr5tng6gIVmn8rCh1DowKJEAAYASAAEgLHufD_BwE"
+              >
+                Winston Music
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -162,20 +169,13 @@ class Music extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background:
-                  "url(https://www.weekendnotes.com/im/007/08/adrenaline-adelaide-south-australia-thrill-seeking71.jpg) center / cover",
+                background: "url() center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              A list of practice days at Mallala and The Bend.
-            </CardText>
+            <CardText>.</CardText>
             <CardActions border>
-              <Button
-                colored
-                target="_blank"
-                href="https://www.adrenaline.com.au/drifting/?gclid=EAIaIQobChMIosTUyNfV6gIV1gorCh233Af7EAAYASAAEgJo2PD_BwE"
-              >
-                Drifting
+              <Button colored target="_blank" href="">
+                Music
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -192,18 +192,13 @@ class Music extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background:
-                  "url(https://live.staticflickr.com/3769/11864624264_0c7eedd07b_b.jpg) center / cover",
+                background: "url() center / cover",
               }}
             ></CardTitle>
             <CardText>A list of skate parks and any competitions.</CardText>
             <CardActions border>
-              <Button
-                colored
-                target="_blank"
-                href="https://www.google.com/search?rlz=1C1CHBF_enAU877AU877&q=skate+parks+in+adelaide&npsic=0&rflfq=1&rlha=0&rllag=-34861011,138548426,9682&tbm=lcl&ved=2ahUKEwia6-Ho1NXqAhWWdn0KHdODBZkQtgN6BAgLEAQ&rldoc=1#rlfi=hd:;si:;mv:[[-34.6956425,138.71488259999998],[-35.0460255,138.4659421]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:1"
-              >
-                Skateboarding
+              <Button colored target="_blank" href="">
+                Music
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -223,13 +218,13 @@ class Music extends Component {
           onChange={(tabId) => this.setState({ activeTab: tabId })}
           ripple
         >
-          <Tab>FootBall</Tab>
-          <Tab>Soccer</Tab>
-          <Tab>Golf</Tab>
-          <Tab>Motor Racing</Tab>
-          <Tab>Hockey</Tab>
-          <Tab>Drifting</Tab>
-          <Tab>Skateboarding</Tab>
+          <Tab>Song Kick</Tab>
+          <Tab>Womadelaide</Tab>
+          <Tab>Music SA</Tab>
+          <Tab>Derringers</Tab>
+          <Tab>Winston Music</Tab>
+          <Tab></Tab>
+          <Tab></Tab>
         </Tabs>
 
         <Grid className="projects-grid">
