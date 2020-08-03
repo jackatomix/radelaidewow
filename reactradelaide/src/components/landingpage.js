@@ -16,7 +16,7 @@ class Landing extends Component {
 
               <h1>Welcome to,</h1>
               <h2>
-                For people living in Adelaide or tourists looking for something
+                For people living in Adelaide and Tourists looking for something
                 to do in Adelaide.
               </h2>
             </div>

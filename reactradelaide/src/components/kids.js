@@ -28,13 +28,18 @@ class Kids extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://thebeachouse.com.au/wp-content/uploads/2017/07/Adelaide-family-friendly-attractions.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local football results and interstate games.</CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                FootBall
+              <Button
+                colored
+                target="_blank"
+                href="https://thebeachouse.com.au/"
+              >
+                The Beach House
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -51,15 +56,18 @@ class Kids extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://assets.atdw-online.com.au/images/c846a3c3d48bbdeb4eb67a9e8f20c408.jpeg?width=900&height=506) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local soccer results, interstate games and overseas updates.
-            </CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Soccer
+              <Button
+                colored
+                target="_blank"
+                href="https://www.westbeachminigolf.com/"
+              >
+                West Beach Mini Golf
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -77,20 +85,17 @@ class Kids extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://slsa-collections.s3.amazonaws.com/e2/b7/e323-0dfd-5f18-9261-edebf3296360.jpg) center / cover",
+                  "url(https://playandgo.com.au/wp-content/uploads/2019/11/20190224_161456-630x306.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local club results, interstate competitions and overseas update of
-              turnaments.
-            </CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.google.com/search?q=golf+adelaide&rlz=1C1CHBF_enAU877AU877&oq=golf+ade&aqs=chrome.1.69i57j0l6j46.17661j0j7&sourceid=chrome&ie=UTF-8"
+                href="https://megaadventure.com.au/"
               >
-                Golf
+                Mega Adventure
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -108,20 +113,17 @@ class Kids extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://superloopadl500.com.au/files/11157_500club_promo_home.jpg) center / cover",
+                  "url(https://www.toursa.com.au/wp-content/uploads/place/9000558_4.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              Local racing events at Mallala and The Bend as well as interstate
-              and overseas racing.
-            </CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.thebend.com.au/hot-laps?gclid=EAIaIQobChMIs5GthNnV6gIVDSUrCh0WAwbgEAAYASAAEgJmEPD_BwE"
+                href="https://www.captainjolleys.com.au/"
               >
-                Motor Racing
+                Captain Jolleys
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -139,13 +141,18 @@ class Kids extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background: "url() center / cover",
+                background:
+                  "url(https://static1.squarespace.com/static/576b784446c3c4053af58dbc/t/58e445141e5b6c3e98088b09/1491354910819/Logo1.png?format=1500w) center / cover",
               }}
             ></CardTitle>
-            <CardText>Local results, interstate and overseas games.</CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
-              <Button colored target="_blank" href="">
-                Hockey
+              <Button
+                colored
+                target="_blank"
+                href="https://www.barossabowland.com.au/"
+              >
+                Barossa Bowland
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -163,19 +170,17 @@ class Kids extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://www.weekendnotes.com/im/007/08/adrenaline-adelaide-south-australia-thrill-seeking71.jpg) center / cover",
+                  "url(https://media-cdn.tripadvisor.com/media/photo-s/12/ad/2e/94/caption.jpg) center / cover",
               }}
             ></CardTitle>
-            <CardText>
-              A list of practice days at Mallala and The Bend.
-            </CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
               <Button
                 colored
                 target="_blank"
-                href="https://www.adrenaline.com.au/drifting/?gclid=EAIaIQobChMIosTUyNfV6gIV1gorCh233Af7EAAYASAAEgJo2PD_BwE"
+                href="http://www.hahndorfsweets.com.au/"
               >
-                Drifting
+                Hahndorf Sweets
               </Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
@@ -192,19 +197,12 @@ class Kids extends Component {
               style={{
                 color: "#fff",
                 height: "176px",
-                background:
-                  "url(https://live.staticflickr.com/3769/11864624264_0c7eedd07b_b.jpg) center / cover",
+                background: "url() center / cover",
               }}
             ></CardTitle>
-            <CardText>A list of skate parks and any competitions.</CardText>
+            <CardText>Things for the kids to do.</CardText>
             <CardActions border>
-              <Button
-                colored
-                target="_blank"
-                href="https://www.google.com/search?rlz=1C1CHBF_enAU877AU877&q=skate+parks+in+adelaide&npsic=0&rflfq=1&rlha=0&rllag=-34861011,138548426,9682&tbm=lcl&ved=2ahUKEwia6-Ho1NXqAhWWdn0KHdODBZkQtgN6BAgLEAQ&rldoc=1#rlfi=hd:;si:;mv:[[-34.6956425,138.71488259999998],[-35.0460255,138.4659421]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:1"
-              >
-                Skateboarding
-              </Button>
+              <Button colored target="_blank" href=""></Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
@@ -223,13 +221,13 @@ class Kids extends Component {
           onChange={(tabId) => this.setState({ activeTab: tabId })}
           ripple
         >
-          <Tab>FootBall</Tab>
-          <Tab>Soccer</Tab>
-          <Tab>Golf</Tab>
-          <Tab>Motor Racing</Tab>
-          <Tab>Hockey</Tab>
-          <Tab>Drifting</Tab>
-          <Tab>Skateboarding</Tab>
+          <Tab>The Beach House</Tab>
+          <Tab>West Beach Mini Golf</Tab>
+          <Tab>Mega Adventure</Tab>
+          <Tab>Captain Jolleys</Tab>
+          <Tab>Barossa Bowland</Tab>
+          <Tab>Hahndorf Sweets</Tab>
+          <Tab></Tab>
         </Tabs>
 
         <Grid className="projects-grid">
