@@ -45,9 +45,9 @@ app.post("/register", async (req, res) => {
   } catch {
     res.redirect("/register");
   }
-  app.use(express.static("public"));
+  app.use(express.static("/public"));
 
   console.log(users);
 });
 
-app.listen(3000);
+app.listen(4000);
